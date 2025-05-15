@@ -7,3 +7,5 @@ PALLETE:
 #601928 -> Rosa mais escuro
 #FFFFFF -> Branco
 #000000 -> Preto
+
+https://www.figma.com/design/0TxAHZ8w5UkmlvBwMjq9ut/DI?node-id=337-2&p=f&t=8ZmlZ5EZKKD4COLQ-0
