@@ -1,0 +1,9 @@
+PALLETE:
+#153895 -> AZUL
+#530471 -> Roxo
+#B4464A -> Castanho?
+#b13455 -> Castanho mais escuro
+#A32341 -> Rosa?
+#601928 -> Rosa mais escuro
+#FFFFFF -> Branco
+#000000 -> Preto
